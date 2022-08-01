@@ -1,5 +1,6 @@
 # musicbot
 
+download this as a zip file and open it up in vs studios after unzipping it 
 
 Make sure you have the bot set up correctly on discord.
 
